@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FOMENTAR EL TURISMO SOSTENIBLE</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('https://wallpaperaccess.com/full/2155750.jpg');
+            background-size: cover;
+            color: #333;
+        }
+        header {
+            background: rgba(0, 0, 0, 0.6);
+            color: white;
+            text-align: center;
+            padding: 2em 0;
+        }
+        header h1 {
+            font-size: 3em;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: rgba(0, 0, 0, 0.7);
+            color: white;
+        }
+        nav a {
+            margin: 1em;
+            color: white;
+            text-decoration: none;
+        }
+        section {
+            padding: 2em;
+            background: rgba(255, 255, 255, 0.8);
+            margin: 1em;
+        }
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>FOMENTAR EL TURISMO SOSTENIBLE</h1>
+    </header>
+    <nav>
+        <a href="#quienes-somos">¿Quiénes Somos?</a>
+        <a href="#que-hacemos">¿Qué Hacemos?</a>
+        <a href="#donde-estamos">¿Dónde Nos Localizamos?</a>
+        <a href="#contacto">Contacto</a>
+    </nav>
+    <section id="quienes-somos">
+        <h2>¿Quiénes Somos?</h2>
+        <p>Introducción</p>
+<p>Somos una agencia de turismo sostenible, y nos dedicamos a dar el mejor servicio turístico ya sea guiado o referido, a turistas locales, nacionales y extranjeros. Nuestro propósito es fomentar la conservación y cuidado de los cenotes en Tulum Quintana Roo y poder brindar una experiencia única de estos lugares paradisiacos.</p>
+ <p>Objetivo general</p>
+<p>“Fomentar el turismo sostenible en Tulum” mediante la conservación de los cenotes y la promoción de prácticas responsables entre los visitantes, durante el próximo año. Además, desarrollar un programa de educación y concientización dirigido tanto a la comunidad local como a los turistas, resaltando la importancia de preservar estos recursos naturales y únicos</p> <p>Objetivo especifico</p>
+<p>Implementar sistemas eficientes de recolección y tratamiento de residuos sólidos y aguas residuales, en un periodo de doce meses los indicadores de éxito será la reducción del 50% en la contaminación de los cenotes y aumento en la capacidad de tratamiento de los residuos</p> <p>Justificación</p>
+<p>Este proyecto busca solucionar el problema de la falta de conservación de los cenotes, entre las causas podemos mencionar: mala gestión de los residuos, desarrollo urbano descontrolado, falta de concientización y educación ambiental</p>  
+    </section>
+    <section id="que-hacemos">
+        <h2>¿Qué Hacemos?</h2>
+        <p>Somos una agencia de viajes turísticos y nos dedicamos a fomentar el turismo sostenible teniendo como prioridad el cuidado y conservación de los cenotes. Dando a conocer a los turistas locales, nacionales y extranjeros las formas de guiarse en estos sitios. Contamos con guías personales altamente capacitados, información de lugares atractivos para visitar (zonas arqueológicas, playas, restaurantes, etc.)</p>
+    </section>
+    <section id="donde-estamos">
+        <h2>¿Dónde Nos Localizamos?</h2>
+        <p>TULUM CENTRO, Q. ROO. MEX. CP 77760</p>
+    </section>
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Teléfono: 9831402702</p>
+        <p>Email: 221173732@prepaenlinea-sep.edu.mx</p>
+        <form>
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" required>
+            <br>
+            <label for="mensaje">Mensaje:</label>
+            <textarea id="mensaje" name="mensaje" required></textarea>
+            <br>
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+    <footer>
+        <p>© 2025 ALMA DELIA. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
